@@ -2,6 +2,8 @@
 
 As artificial intelligence is gaining popularity every second of the day so are artificial intelligent systems at an alarming rate as well, So they can be integrated with different machine learning models to handle difficult tasks.
 
+AI Web Assistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
+
 ## Demo Screeshots
 
 <table width="100%"> 
